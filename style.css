@@ -490,7 +490,7 @@ img {
 
 /*============== BREAKPOINTS =====================*/
 /* For small devices */
-@media screen and (max-width: 300px){
+@media screen and (max-width: 420px){
 	.container{
 		margin-inline: 1rem;
 	}
